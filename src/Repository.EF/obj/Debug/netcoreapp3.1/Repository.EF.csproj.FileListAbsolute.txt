@@ -1,0 +1,14 @@
+E:\Developments\repos\CRUD-EFCore\src\Repository.EF\bin\Debug\netcoreapp3.1\CRUD.EFCore.Repository.EF.deps.json
+E:\Developments\repos\CRUD-EFCore\src\Repository.EF\bin\Debug\netcoreapp3.1\CRUD.EFCore.Repository.EF.dll
+E:\Developments\repos\CRUD-EFCore\src\Repository.EF\bin\Debug\netcoreapp3.1\CRUD.EFCore.Repository.EF.pdb
+E:\Developments\repos\CRUD-EFCore\src\Repository.EF\obj\Debug\netcoreapp3.1\Repository.EF.csprojAssemblyReference.cache
+E:\Developments\repos\CRUD-EFCore\src\Repository.EF\obj\Debug\netcoreapp3.1\Repository.EF.AssemblyInfoInputs.cache
+E:\Developments\repos\CRUD-EFCore\src\Repository.EF\obj\Debug\netcoreapp3.1\Repository.EF.AssemblyInfo.cs
+E:\Developments\repos\CRUD-EFCore\src\Repository.EF\obj\Debug\netcoreapp3.1\Repository.EF.csproj.CoreCompileInputs.cache
+E:\Developments\repos\CRUD-EFCore\src\Repository.EF\obj\Debug\netcoreapp3.1\CRUD.EFCore.Repository.EF.dll
+E:\Developments\repos\CRUD-EFCore\src\Repository.EF\obj\Debug\netcoreapp3.1\CRUD.EFCore.Repository.EF.pdb
+E:\Developments\repos\CRUD-EFCore\src\Repository.EF\bin\Debug\netcoreapp3.1\CRUD.EFCore.Domain.Model.dll
+E:\Developments\repos\CRUD-EFCore\src\Repository.EF\bin\Debug\netcoreapp3.1\CRUD.EFCore.Domain.Model.pdb
+E:\Developments\repos\CRUD-EFCore\src\Repository.EF\obj\Debug\netcoreapp3.1\Repository.EF.csproj.CopyComplete
+E:\Developments\repos\CRUD-EFCore\src\Repository.EF\bin\Debug\netcoreapp3.1\CRUD.EFCore.Domain.Core.dll
+E:\Developments\repos\CRUD-EFCore\src\Repository.EF\bin\Debug\netcoreapp3.1\CRUD.EFCore.Domain.Core.pdb

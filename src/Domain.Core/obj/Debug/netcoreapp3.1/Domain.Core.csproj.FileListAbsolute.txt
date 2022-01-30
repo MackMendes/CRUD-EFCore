@@ -1,0 +1,12 @@
+E:\Developments\repos\CRUD-EFCore\src\Domain.Core\bin\Debug\netcoreapp3.1\CRUD.EFCore.Domain.Core.deps.json
+E:\Developments\repos\CRUD-EFCore\src\Domain.Core\bin\Debug\netcoreapp3.1\CRUD.EFCore.Domain.Core.dll
+E:\Developments\repos\CRUD-EFCore\src\Domain.Core\bin\Debug\netcoreapp3.1\CRUD.EFCore.Domain.Core.pdb
+E:\Developments\repos\CRUD-EFCore\src\Domain.Core\bin\Debug\netcoreapp3.1\CRUD.EFCore.Domain.Model.dll
+E:\Developments\repos\CRUD-EFCore\src\Domain.Core\bin\Debug\netcoreapp3.1\CRUD.EFCore.Domain.Model.pdb
+E:\Developments\repos\CRUD-EFCore\src\Domain.Core\obj\Debug\netcoreapp3.1\Domain.Core.csprojAssemblyReference.cache
+E:\Developments\repos\CRUD-EFCore\src\Domain.Core\obj\Debug\netcoreapp3.1\Domain.Core.AssemblyInfoInputs.cache
+E:\Developments\repos\CRUD-EFCore\src\Domain.Core\obj\Debug\netcoreapp3.1\Domain.Core.AssemblyInfo.cs
+E:\Developments\repos\CRUD-EFCore\src\Domain.Core\obj\Debug\netcoreapp3.1\Domain.Core.csproj.CoreCompileInputs.cache
+E:\Developments\repos\CRUD-EFCore\src\Domain.Core\obj\Debug\netcoreapp3.1\Domain.Core.csproj.CopyComplete
+E:\Developments\repos\CRUD-EFCore\src\Domain.Core\obj\Debug\netcoreapp3.1\CRUD.EFCore.Domain.Core.dll
+E:\Developments\repos\CRUD-EFCore\src\Domain.Core\obj\Debug\netcoreapp3.1\CRUD.EFCore.Domain.Core.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CRUD.EFCore.Domain.Core/1.0.0": {
+        "dependencies": {
+          "CRUD.EFCore.Domain.Model": "1.0.0"
+        },
+        "runtime": {
+          "CRUD.EFCore.Domain.Core.dll": {}
+        }
+      },
+      "CRUD.EFCore.Domain.Model/1.0.0": {
+        "runtime": {
+          "CRUD.EFCore.Domain.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CRUD.EFCore.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CRUD.EFCore.Domain.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
